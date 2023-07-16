@@ -1,0 +1,2 @@
+text = "19663663.jpg#0	Four young adults sit outside on a wooden deck near a building around a small round table , while another person stands on the edge of the deck , leaning on the wooden railing , with the sun shining on one of them and the rest of them are in the shade , two of them crossing their legs , one holding a cellphone out in front of himself and another holding a green and red soda can ."
+print(len(text))
