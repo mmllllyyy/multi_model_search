@@ -58,7 +58,6 @@ class MultiModel:
         try:
             # __model：预训练模型
             # __transformer：图像预处理函数
-            #self.__model, self.__transform = clip.load("ViT-B/32", device=self.__device, download_root=model_path)
             self.__model, self.__transform = clip.load("ViT-B/32", device=self.__device, download_root=model_path)
             print("load model done")
             print()
